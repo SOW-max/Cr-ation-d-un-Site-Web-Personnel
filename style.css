@@ -1,29 +1,32 @@
 body{
-    background-image: url(Images/pexels-padrinan-3520670.jpg)
-    ;
+    background-image: url(Images/farzad-p-xSl33Wxyc-unsplash.jpg);
     background-size: cover;
     background-position: center;
 
 }
 h1{
-    color: white;
+    color: black;
     font-weight: bolder;
     font-style: italic;
 }
 h2{
-    color: whitesmoke;
+    color: black;
     font-weight: bolder;
     font-style: italic;
 }
 p{
-    color: antiquewhite;
+    color: black;
 }
 .contenu{
     flex: 1 0 auto;
 }
 footer{
     flex-shrink: 0;
-    border-top: 2px whitesmoke;
+    border-top: 2px solid black;
     width: 100%;
 
 }
+footer{
+    background-color: burlywood;
+}
+#Menu

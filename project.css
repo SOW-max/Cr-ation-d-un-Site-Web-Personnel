@@ -1,14 +1,14 @@
 body{
-    background-image: url(Images/pexels-picturemechaniq-1749274.jpg);
+    background-image: 
     background-position: center;
     background-size: cover;
 }
 h1{
-    color: whitesmoke;
+    color: black;
 }
 p{
-    color: whitesmoke;
+    color: black;
 }
 nav a:{
-    color: whitesmoke;
+    color: black;
 }
