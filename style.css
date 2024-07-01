@@ -1,0 +1,29 @@
+body{
+    background-image: url(Images/pexels-padrinan-3520670.jpg)
+    ;
+    background-size: cover;
+    background-position: center;
+
+}
+h1{
+    color: white;
+    font-weight: bolder;
+    font-style: italic;
+}
+h2{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-style: italic;
+}
+p{
+    color: antiquewhite;
+}
+.contenu{
+    flex: 1 0 auto;
+}
+footer{
+    flex-shrink: 0;
+    border-top: 2px whitesmoke;
+    width: 100%;
+
+}
